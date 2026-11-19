@@ -189,7 +189,7 @@
         <li>request rectification or immediate erasure of submitted data (right to be forgotten),</li>
         <li>restrict data processing.</li>
     </ul>
-    <p>To exercise these rights, please contact the Controller at: <a href="mailto:[Your Email Address]">[Your Email Address]</a>.</p>
+    <p>To exercise these rights, please contact the Controller at: <a href="mailto:support.namida@gmail.com">support.namida@gmail.com</a>.</p>
 
     <h2>8. Changes to This Privacy Policy</h2>
     <p>The Controller reserves the right to make changes to this Privacy Policy (for example, if new features are added to the App). The current version of the document will always be available in the App's listing on Google Play and directly in the App settings.</p>
