@@ -142,7 +142,7 @@
         <p class="meta"><strong>Last updated:</strong> November 19, 2026</p>
     </header>
 
-    <p>This Privacy Policy sets out the rules for processing and protecting the data of users of the <strong>[App Name]</strong> mobile application (hereinafter referred to as the "App"), which serves as a home screen (launcher) for Android.</p>
+    <p>This Privacy Policy sets out the rules for processing and protecting the data of users of the <strong>Namida Launcher</strong> mobile application (hereinafter referred to as the "App"), which serves as a home screen (launcher) for Android.</p>
 
     <h2>1. Data Controller</h2>
     <p>The data controller is the creator of the App: <strong>chmury.iar</strong>, who can be contacted via email at: <a href="mailto:support.namida@gmail.com">support.namida@gmail.com</a>.</p>
@@ -168,7 +168,7 @@
     </ul>
 
     <h2>3. System Permissions Required by the App</h2>
-    <p>As a launcher application, <strong>[App Name]</strong> may require access to certain Android system features (e.g., list of installed applications, displaying widgets, location access for the weather widget, notification access). These permissions are used locally on the device solely to ensure proper operation of the launcher interface.</p>
+    <p>As a launcher application, <strong>Namida Launcher</strong> may require access to certain Android system features (e.g., list of installed applications, displaying widgets, location access for the weather widget, notification access). These permissions are used locally on the device solely to ensure proper operation of the launcher interface.</p>
 
     <h2>4. Data Retention and Deletion</h2>
     <ul>
