@@ -168,7 +168,7 @@
     </ul>
 
     <h2>3. System Permissions Required by the App</h2>
-    <p>As a launcher application, <strong>Namida Launcher</strong> may require access to certain Android system features (e.g., list of installed applications, displaying widgets, location access for the weather widget, notification access). These permissions are used locally on the device solely to ensure proper operation of the launcher interface.</p>
+    <p>As a launcher application, <strong>Namida Launcher</strong> may require access to certain Android system features (e.g., list of installed applications, displaying widgets, location access for the weather widget, notification access, accesibility settings). These permissions are used locally on the device solely to ensure proper operation of the launcher interface.</p>
 
     <h2>4. Data Retention and Deletion</h2>
     <ul>
