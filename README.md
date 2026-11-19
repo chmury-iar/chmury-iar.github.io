@@ -1,10 +1,9 @@
 # chmury-iar.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - [App Name]</title>
+    <title>Privacy Policy - Namida Launcher</title>
     <style>
         :root {
             --bg-color: #1b1b1b;
@@ -139,14 +138,14 @@
 
 <div class="container">
     <header>
-        <h1>Privacy Policy for [App Name]</h1>
+        <h1>Privacy Policy for Namida Launcher</h1>
         <p class="meta"><strong>Last updated:</strong> November 19, 2026</p>
     </header>
 
     <p>This Privacy Policy sets out the rules for processing and protecting the data of users of the <strong>[App Name]</strong> mobile application (hereinafter referred to as the "App"), which serves as a home screen (launcher) for Android.</p>
 
     <h2>1. Data Controller</h2>
-    <p>The data controller is the creator of the App: <strong>[Your Full Name / Company Name]</strong>, who can be contacted via email at: <a href="mailto:[Your Email Address]">[Your Email Address]</a>.</p>
+    <p>The data controller is the creator of the App: <strong>chmury.iar</strong>, who can be contacted via email at: <a href="mailto:support.namida@gmail.com">support.namida@gmail.com</a>.</p>
 
     <h2>2. What Data We Collect and Why</h2>
     <p>The App is designed with user privacy in mind. We do not collect, profile, or sell personal data for marketing or analytics purposes.</p>
@@ -158,7 +157,7 @@
         <li><strong>How data is processed:</strong> The App requests location access only when the user chooses to use weather features. Location data is processed locally on the device and used exclusively to make a weather request — <strong>it is not sent to the Controller, stored in databases, or shared with third parties for tracking purposes.</strong></li>
     </ul>
     <div class="note">
-        <strong>Technical note:</strong> Geographic coordinates are transmitted as an anonymous request solely to the weather API provider (<strong>[Weather API Provider Name, e.g., OpenWeatherMap / AccuWeather]</strong>) to retrieve current weather data.
+        <strong>Technical note:</strong> Geographic coordinates are transmitted as an anonymous request solely to the weather API provider to retrieve current weather data.
     </div>
 
     <h3>B. Diagnostic Data and Log Files (Crash / Error Logs)</h3>
@@ -196,7 +195,7 @@
     <p>The Controller reserves the right to make changes to this Privacy Policy (for example, if new features are added to the App). The current version of the document will always be available in the App's listing on Google Play and directly in the App settings.</p>
 
     <footer>
-        &copy; 2026 [App Name]. All rights reserved.
+        &copy; 2026 Namida Launcher. All rights reserved.
     </footer>
 </div>
 
